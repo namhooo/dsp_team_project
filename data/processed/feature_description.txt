@@ -1,0 +1,48 @@
+=== Feature 목록 ===
+
+ 1. search_4w_before
+ 2. search_2w_before
+ 3. search_1w_before
+ 4. search_opening
+ 5. search_1w_after
+ 6. max_search
+ 7. avg_search
+ 8. search_volatility
+ 9. search_growth_rate
+10. director_power
+11. actor_power
+12. ticket_power
+13. genre_애니메이션
+14. genre_어드벤처
+15. genre_사극
+16. genre_SF
+17. genre_멜로/로맨스
+18. genre_다큐멘터리
+19. genre_뮤지컬
+20. genre_판타지
+21. genre_공연
+22. genre_전쟁
+23. genre_공포(호러)
+24. genre_서부극(웨스턴)
+25. genre_드라마
+26. genre_액션
+27. genre_범죄
+28. genre_기타
+29. genre_스릴러
+30. genre_성인물(에로)
+31. genre_코미디
+32. genre_미스터리
+33. genre_가족
+34. genre_Unknown
+35. release_month
+36. release_quarter
+37. release_year
+38. release_dayofweek
+39. is_weekend
+40. season_fall
+41. season_spring
+42. season_summer_peak
+43. season_winter_peak
+44. distributor_freq
+45. distributor_target
+46. watchGrade_encoded

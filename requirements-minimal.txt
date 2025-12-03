@@ -1,0 +1,23 @@
+# 최소 요구사항 (핵심 패키지만)
+# 크롤링 관련 패키지는 제외
+
+# 데이터 처리
+pandas
+numpy
+
+# 시각화
+matplotlib
+seaborn
+
+# 머신러닝
+scikit-learn
+
+# API 호출
+requests
+
+# 유틸리티
+jupyter
+notebook
+tqdm
+joblib
+scipy
