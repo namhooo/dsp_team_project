@@ -181,8 +181,6 @@ plot_feature_importance(model, feature_names)
 
 ### 모델 성능
 - **최종 모델**: [선정된 모델명]
-- **Test R²**: [값]
-- **Test RMSE**: [값] 만명
 - **Test MAE**: [값] 만명
 
 ### 핵심 발견사항
